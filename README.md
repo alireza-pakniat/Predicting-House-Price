@@ -2,7 +2,6 @@
 ![Matrix](https://img.shields.io/badge/Matrix%20Operations-RREF-important)
 ![Project-Type](https://img.shields.io/badge/Type-Notebook-lightgrey)
 ![Linear Algebra](https://img.shields.io/badge/Topic-Linear%20Algebra-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-Jupyter%20Notebook-orange)
 
@@ -33,5 +32,5 @@ This project showcases practical applications of linear algebra concepts using P
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/linear-algebra-in-action.git
+   git clone https://github.com/alireza-pakniat/Predicting-House-Price
    cd linear-algebra-in-action
